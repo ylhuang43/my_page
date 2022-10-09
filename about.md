@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+A data science enthusiast. I am passionate about using data analysis/modeling to help people make better decisions. I have a strong statistic and econometrics backgound and 6+ years of experience working with large real-world datasets.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Huge baseball fan(Go Braves!).
+A casual chess player and movie lover (Tarantino is the best!) 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yenlinhuang43@gmail.com](mailto:yenlinhuang43@gmail.com)
