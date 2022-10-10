@@ -9,6 +9,7 @@ A data science enthusiast. I am passionate about using data analysis/modeling to
 ### More Information
 
 Huge baseball fan(Go Braves!).
+
 A casual chess player and movie lover (Tarantino is the best!) 
 
 ### Contact me
