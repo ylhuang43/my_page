@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Project: Predicting COVID News Sentiment with NLP' 
+title: 'Project 3: Predicting COVID News Sentiment with NLP' 
 ---
 
 This project is my Capstone for BrainStation Data Science Boot Camp. In this project, I explored different NLP methods to process the Covid news article texts and predict article sentiment, including a Word2Vec embedding trained by my own neural network.
