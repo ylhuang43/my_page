@@ -2,6 +2,8 @@
 layout: post
 title: 'Project 2: Diversified Institutional Ownership and Firm Innovation' 
 ---
+**Project Objective:** Identify the causal impact of institutional investors on innovation productivity for firms in their investment portfolios.
+
 **Programming Language:** Stata, Python
 
 **Algorithm/Statical Approach Used**: Ordinary Least Square(OLS) Regression, Panel Regression with Fixed Effects,
